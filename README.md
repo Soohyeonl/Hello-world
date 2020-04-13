@@ -1,3 +1,4 @@
 # Hello-world
-Jast another  repository
-The first work.
+My first repository.
+
+本仓库涉及计算机基础支持
